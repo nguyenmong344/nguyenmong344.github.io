@@ -375,7 +375,7 @@
 	
 }
 .review{
-	height: 593px;
+	height: 1700px;
 	width: 1600px;
 }
 .review p{
@@ -418,6 +418,13 @@
 }
 .review .dot:hover{
 	background: #ff5e27
+}
+.review .background{
+	background: url("../ngot-2.jpg");
+	height: 1300px;
+	width: 1600px;
+	background-size: cover;
+	
 }
 .projects{
 	height: 814px;
@@ -514,6 +521,7 @@
 	height: 710px;
 	width: 725px;
 	float: right;
+	
 }
 .link .text{
 	margin-top: 110px;
@@ -537,15 +545,17 @@
 .footer .social i{
 	font-size: 44px;
 	margin-right: 20px;
+	color: #ff4d0f;
 }
 .footer .social {
 	padding-left: 100px;
 }
 .footer .social h1{
-	font-size: 15px;
+	font-size: 12px;
 	float: right;
 	margin-top: 130px;
 	margin-right: 40px;
+	font-family: "Helvetica Neue", "sans-serif";
 }
 .footer .formbar{
 	width: 565px;
